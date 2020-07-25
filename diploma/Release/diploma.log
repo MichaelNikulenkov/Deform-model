@@ -1,0 +1,26 @@
+﻿  mainfunc.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(18): warning C4101: 'current_interval_num': unreferenced local variable
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(304): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(455): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(456): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(468): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(469): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\source\repos\diploma\diploma\mainfunc.cpp(511): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  10 of 1093 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  diploma.vcxproj -> C:\Users\we\source\repos\diploma\Release\diploma.exe
